@@ -1,0 +1,7 @@
+C:\Users\jusja\source\repos\Day1Demo(right)\Day1Demo(right)\bin\Debug\Day1Demo(right).exe.config
+C:\Users\jusja\source\repos\Day1Demo(right)\Day1Demo(right)\bin\Debug\Day1Demo(right).exe
+C:\Users\jusja\source\repos\Day1Demo(right)\Day1Demo(right)\bin\Debug\Day1Demo(right).pdb
+C:\Users\jusja\source\repos\Day1Demo(right)\Day1Demo(right)\obj\Debug\Day1Demo(right).csprojAssemblyReference.cache
+C:\Users\jusja\source\repos\Day1Demo(right)\Day1Demo(right)\obj\Debug\Day1Demo(right).csproj.CoreCompileInputs.cache
+C:\Users\jusja\source\repos\Day1Demo(right)\Day1Demo(right)\obj\Debug\Day1Demo(right).exe
+C:\Users\jusja\source\repos\Day1Demo(right)\Day1Demo(right)\obj\Debug\Day1Demo(right).pdb
